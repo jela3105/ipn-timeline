@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ipn-timeline/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/ipn-timeline/static/js/main.d7efbf8b.chunk.js",
-    "main.js.map": "/ipn-timeline/static/js/main.d7efbf8b.chunk.js.map",
+    "main.css": "/ipn-timeline/static/css/main.62fa9bad.chunk.css",
+    "main.js": "/ipn-timeline/static/js/main.f36b1469.chunk.js",
+    "main.js.map": "/ipn-timeline/static/js/main.f36b1469.chunk.js.map",
     "runtime-main.js": "/ipn-timeline/static/js/runtime-main.e3389895.js",
     "runtime-main.js.map": "/ipn-timeline/static/js/runtime-main.e3389895.js.map",
     "static/js/2.6e06e6cc.chunk.js": "/ipn-timeline/static/js/2.6e06e6cc.chunk.js",
@@ -10,14 +10,13 @@
     "static/js/3.227dd732.chunk.js": "/ipn-timeline/static/js/3.227dd732.chunk.js",
     "static/js/3.227dd732.chunk.js.map": "/ipn-timeline/static/js/3.227dd732.chunk.js.map",
     "index.html": "/ipn-timeline/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/ipn-timeline/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.6e06e6cc.chunk.js.LICENSE.txt": "/ipn-timeline/static/js/2.6e06e6cc.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ipn-timeline/static/media/logo.6ce24c58.svg"
+    "static/css/main.62fa9bad.chunk.css.map": "/ipn-timeline/static/css/main.62fa9bad.chunk.css.map",
+    "static/js/2.6e06e6cc.chunk.js.LICENSE.txt": "/ipn-timeline/static/js/2.6e06e6cc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e3389895.js",
     "static/js/2.6e06e6cc.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.d7efbf8b.chunk.js"
+    "static/css/main.62fa9bad.chunk.css",
+    "static/js/main.f36b1469.chunk.js"
   ]
 }
