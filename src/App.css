@@ -1,5 +1,7 @@
 .App {
+  margin-top: 0px;
   text-align: center;
+  background-color: #eee;
 }
 .linea-tiempo {
   position: relative;
@@ -51,7 +53,7 @@
 }
 
 .momento .descripcion {
-  background-color: #eee;
+  background-color: #fff;
   border-radius: 10px;
   padding: 10px;
   line-height: 22px;
@@ -67,18 +69,18 @@
   width: 0;
   border-top: 10px solid transparent;
   border-bottom: 10px solid transparent;
-  border-left: 12px solid #eee;
+  border-left: 12px solid #fff;
 }
 
 .momento:nth-child(even) .descripcion {
-  background-color: #3393FE;
-  color: white;
+  background-color: #9e213d;
+  color: #eee;
 }
 
 .momento:nth-child(even) .descripcion::after{
   left: -10px;
   border-top: 10px solid transparent;
   border-bottom: 10px solid transparent;
-  border-right: 12px solid #3393FE;
+  border-right: 12px solid #9e213d;
   border-left: none;
 }
